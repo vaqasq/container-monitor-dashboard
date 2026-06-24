@@ -1,1 +1,1 @@
-React Frontend for [monitor.vaqas.dev] (https://github.com/vaqasq/monitor.vaqas.dev)
+React Frontend for [monitor.vaqas.dev](https://github.com/vaqasq/monitor.vaqas.dev)
